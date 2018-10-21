@@ -1,6 +1,6 @@
 # HackUPC_2019
 
-## Meteobrick
+## Meteototxo
 
 > A modular weather station for smart cities.
 
